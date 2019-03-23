@@ -1,0 +1,1502 @@
+#:.LST LABEL
+0:
+1:Chocobo
+2:Magitek Reaper
+3:Amalj'aa
+4:Ixal
+5:Kobold
+6:Goblin
+7:Sylph
+8:Moogle
+9:Sahagin
+10:Mamool Ja Warrior
+11:Hecatonchier
+12:Giant
+13:Gigas
+14:Qiqirn
+15:Delivery Moogle
+16:Lamia
+17:Skeleton
+18:Succubus
+19:Demon
+20:Miteling
+21:Diremite
+22:Banemite
+23:Graffias
+24:Rat
+25:Squirrel
+26:Marmot
+27:Dormouse
+28:Funguar
+29:Myconid
+30:Funguar C (Blue)
+31:Galago
+32:Lemur
+33:Galago (+ Collar)
+34:Ochu
+35:Microchu
+36:Chigoe
+37:Djigga
+38:Flea
+39:Buzzard
+40:Condor
+41:Bateleur
+42:Kite
+43:Falcon
+44:Hog
+45:Boar
+46:Hog (II) (Slightly Lighter Copy)
+47:Kamapuaa
+48:Roseling
+49:Flytrap
+50:Slug
+51:Sea Hare
+52:Dark Matter Slug
+53:Gnat
+54:Ked
+55:Magitek Bit
+56:Weevil
+57:Ladybug
+58:Midge Swarm
+59:Syrphid Swarm
+60:Bee Swarm
+61:Antelope Doe
+62:Antelope Stag
+63:Imp
+64:Devilet
+65:Coeurl
+66:Torama
+67:Panther
+68:Dark Matter Coeurl
+69:Coeurl Pup
+70:Coeurl (Mount)
+71:Mindflayer
+72:Psycheflayer
+73:Mindflayer (The Hunt)
+74:Piscodemon
+75:Sand Yarzon
+76:Bog Yarzon
+77:
+78:Firefly
+79:Wisp
+80:Plasmoid
+81:Mudestone Golem
+82:Chert Golem
+83:Temple Guardian
+84:Mudestone Golem (Spike)
+85:Chert Golem (Spike)
+86:Temple Guardian (Spike)
+87:Dark Matter Golem
+88:Spriggolem
+89:Tonberry
+90:Tonberry (II) (Slightly Darker Copy)
+91:Tonberry King
+92:Tonberry Scholar
+93:Tonberry Black Mage
+94:Tortoise
+95:Adamantoise
+96:Raptor
+97:Anole
+98:Bat
+99:Kalong
+100:Bomb
+101:Grenade
+102:Shrapnel
+103:Bomb (+ Flames)
+104:Treant
+105:Treant (+ Greenwrath Eyes)
+106:Dryad
+107:Spriggan (Yellow-eyed, Lightning Rock)
+108:Spriggan (Yellow-eyed, Earth Rock)
+109:Spriggan (Yellow-eyed, Mythril Ore)
+110:Spriggan (Yellow-eyed, Copper Ore)
+111:Spriggan (Red-eyed, Lightning Rock)
+112:Spriggan (Red-eyed, Earth Rock)
+113:Spriggan (Red-eyed, Mythril Ore)
+114:Spriggan (Red-eyed, Copper Ore)
+115:Spriggan (Yellow-eyed, Pristine Egg)
+116:Spriggan (Yellow-eyed, Chocobo Egg)
+117:Spriggan (Yellow-eyed, Midnight Egg)
+118:Spriggan (Yellow-eyed, Brilliant Egg)
+119:Spriggan (Yellow-eyed, Vibrant Egg)
+120:Spriggan (Yellow-eyed, Motley Egg)
+121:Dullahan (YNNYB) (Clean)
+122:Dullahan (YYYYR) (Shiny)
+123:Dullahan (NNNNB) (Rusty)
+124:Face of the Hero
+125:Dullahan (NNNNB) (Clean)
+126:Gigantoad
+127:Nix
+128:Poison Nix
+129:Gigantoad D (Green)
+130:Puk
+131:Pteroc
+132:Puk C (Yellow)
+133:Hippocerf
+134:Hippogryph
+135:Basilisk
+136:Peiste
+137:Wadjet
+138:Buffalo
+139:Aurochs
+140:Wisent
+141:Cactuar
+142:Sabotender
+143:Flowertender
+144:Cactuar D (Yellow; Headspines)
+145:Morbol
+146:Great Morbol
+147:Miser's Mistress
+148:Clipper
+149:Snipper
+150:Nahn
+151:Salamander
+152:Eft
+153:Eft C (Orange w/ Blue Dots)
+154:Blueback
+155:Sableback
+156:Violetback
+157:Yellowback
+158:Dark Matter Pelican
+159:Wolf
+160:Jackal
+161:White Wolf
+162:Hellhound (Unused)
+163:Watchwolf
+164:Scurvy Dog
+165:Behemoth
+166:Kaiser Behemoth
+167:Floating Eye
+168:Ahriman
+169:Arimaspi
+170:Ahriman D (Red)
+171:Dirty Eye
+172:Ahriman (Mount)
+173:Dodo
+174:Cockatrice (Black)
+175:Cockatrice (Blue)
+176:Coblyn
+177:Doblyn
+178:Crystal Coblyn
+179:Drake
+180:Biast
+181:Battle Drake
+182:Elbst
+183:Aldgoat Billy
+184:Aldgoat Nanny
+185:Mosshorn
+186:Magitek Juggernaut
+187:Ogre
+188:Hapalit
+189:Hrimthurs
+190:Apkallu
+191:
+192:Antling Soldier
+193:Antling Princess
+194:Antling Worker
+195:Antling Marshal
+196:Antling Queen
+197:Chimera
+198:Goobbue
+199:Highland Goobbue
+200:Goobbue (Mount)
+201:Marshmallow (White-eyed)
+202:Gelato (White-eyed)
+203:Flan C-1 (White-eyed Green)
+204:Custard (White-eyed)
+205:Pudding (White-eyed)
+206:Bavarois (White-eyed)
+207:Marshmallow (Black-eyed)
+208:Gelato (Black-eyed)
+209:Flan C-2 (Black-eyed Green)
+210:Custard (Black-eyed)
+211:Pudding (Black-eyed)
+212:Bavarois (Black-eyed)
+213:Magitek Vanguard
+214:Magitek Vanguard H
+215:Magitek Vanguard F
+216:Lesser Gargoyle
+217:Greater Gargoyle
+218:Batraal
+219:Cyclops
+220:Elder Cyclops
+221:Mammet (Red Helmet)
+222:Mammet (Blue Helmet)
+223:Mammet (Black Helmet)
+224:Wyvern
+225:Aery Wyvern
+226:Ancient Wyvern (+ Neurolinks)
+227:Atomos
+228:Shadow Dragon
+229:Thunder Dragon
+230:Moss Dragon
+231:Ice Dragon
+232:Zombie Dragon
+233:Deathgaze
+234:Blue Cobra
+235:Red Cobra
+236:Coeurlregina
+237:Titan Rock
+238:Sandworm
+239:Brineworm
+240:Giant Tunnel Worm
+241:Abyss Worm
+242:Gigaworm
+243:Siren
+244:Five-Headed Dragon
+245:Hydra
+246:Three-Headed, Glowing Blue Hydra
+247:Three-Headed, Glowing Yellow Hydra
+248:Hoarhound
+249:Granite Gaol
+250:Phlegethon
+251:Amon
+252:Cait Sith
+253:Magitek Colossus
+254:Magitek Colossus Rubricatus
+255:Mark II Magitek Colossus
+256:Demon Wall
+257:Demon Wall (II) (Copy)
+258:Demon Wall (III) (Copy)
+259:Demon Wall (IV) (Copy)
+260:Demon Wall (V) (Copy)
+261:Typhon
+262:Typhon (II) (Invisible)
+263:Magic Pot
+264:Bogy
+265:Revenant
+266:Phurble
+267:Snurble
+268:Angler
+269:Remora
+270:Orobon
+271:Fire Elemental
+272:Lightning Elemental
+273:Water Elemental
+274:Elemental D (White & Green)
+275:Elemental E (White & Red)
+276:Ice Elemental
+277:Wind Elemental
+278:Earth Elemental
+279:Aurelia
+280:Sea Wasp
+281:Dark Matter Aurelia
+282:Mole
+283:Hedgemole
+284:Sheep Ram (+ Bell)
+285:Sheep Ram
+286:Sheep Ewe (+ Bell)
+287:Sheep Ewe
+288:Karakul Ram (+ Bell)
+289:Karakul Ram
+290:Karakul Ewe (+ Bell)
+291:Karakul Ewe
+292:Slime
+293:Slime B (Yellow)
+294:Slime C (Purple)
+295:Rheum
+296:Dark Matter Slime
+297:Mandragora
+298:Infernal Nail
+299:Field Generator A (Garlean)
+300:Field Generator B (Garlean)
+301:Monolith
+302:Garuda's Plume (Blue Aether)
+303:Garuda
+304:Ifrit
+305:Leviathan
+306:Titan (+ Heart)
+307:Ultima Weapon (Wings + Armor)
+308:Ultima Weapon (Armor)
+309:Ultima Weapon (Wings)
+310:Ultima Weapon
+311:Sleipnir
+312:Shiva (Weapons)
+313:Vishap
+314:Generic Person
+315:Shadowlurker
+316:ADS (Spheroid - Black - Red)
+317:ADS (Spheroid - Black - White)
+318:ADS (Spheroid - Black - Violet)
+319:ADS (Spheroid - Black - Lavender)
+320:ADS (Spheroid - Black - Aqua)
+321:ADS (Spheroid - Black - Green)
+322:ADS (Spheroid - Black - Yellow)
+323:ADS (Spheroid - Black - Orange)
+324:Proto Ultima Arm Unit
+325:BUGGED - DO NOT CLICK
+326:
+327:
+328:Morbol Seedling
+329:Kraken
+330:
+331:Magitek Death Claw
+332:Allagan Death Claw
+333:Diabolos
+334:
+335:Bahamut
+336:Bahamut (Tarnished)
+337:Phoenix
+338:Nidhogg (Hraesvelgr's Left Eye)
+339:Hraesvelgr (Both Eyes)
+340:
+341:FFXIII Behemoth (White)
+342:FFXIII Behemoth (Red)
+343:
+344:Temple Mummy (Hyur)
+345:Ramuh
+346:
+347:Glasya Labolas
+348:Scylla
+349:Xande
+350:Cerberus
+351:Angra Mainyu
+352:Cloud of Darkness
+353:Gilgamesh (Six Weapons)
+354:Ultros
+355:Stoneshell
+356:Pugil
+357:Dark Matter Pugil
+358:Bulb
+359:Hornet
+360:Colibri
+361:Clockwork Dreadnaught
+362:Dragonfly
+363:Vodoriga
+364:Uragnite
+365:Taurus
+366:Adjudicator
+367:Qarn Facer
+368:Qarn Facer B (Green Glow Placeholder)
+369:Qarn Facer C (Orange Glow Placeholder)
+370:Qarn Facer D (Blue Glow Placeholder)
+371:Shield Dragon
+372:Baritine Croc
+373:Feral Croc
+374:Killer Mantis
+375:Dark Matter Mantis
+376:Preying Mantis
+377:Aevis
+378:Mirrorknight
+379:Dreadknight
+380:Rook
+381:Fire Sprite
+382:Ice Sprite
+383:Wind Sprite
+384:Lightning Sprite
+385:Water Sprite
+386:Earth Sprite
+387:Clockwork Soldier
+388:Clockwork Knight
+389:Orb (Lightning / White Center)
+390:Orb (Blue / Guildhest Water Bubble?)
+391:Orb (Purple / Guildhest Water Bubble?)
+392:Orb (Green / Water Bubble? Low to ground.)
+393:Maelstrom Cannon
+394:Adder Cannon
+395:Flame Cannon
+396:Gremlin
+397:Gremlin B (Red)
+398:Gremlin C (Green)
+399:Gremlin D (Yellow)
+400:FFXIII Bahamut
+401:Anubys
+402:Fallen Neurolink
+403:Flying Ice Dragon
+404:Missile Carrier Claw (Castrum)
+405:Missile Launcher (Castrum)
+406:FFXI Shantotto
+407:Eos
+408:Selene
+409:Emerald Carbuncle
+410:Ruby Carbuncle
+411:Sapphire Carbuncle
+412:Topaz Carbuncle
+413:Diamond Carbuncle
+414:Obsidian Carbuncle
+415:Ifrit-Egi
+416:Titan-Egi
+417:Garuda-Egi
+418:Ramuh-Egi
+419:Mammet 001 (Minion)
+420:Mammet 003L (Minion)
+421:Mammet 003G (Minion)
+422:Mammet 003U (Minion)
+423:Wayward Hatchling (Minion)
+424:Storm Hatchling (Minion)
+425:Serpent Hatchling (Minion)
+426:Flame Hatchling (Minion)
+427:Cherry Bomb (Minion)
+428:Baby Behemoth (Minion)
+429:Morbol Seedling (Minion)
+430:Cait Sith Doll (Minion)
+431:Tiny Rat (Minion)
+432:Baby Bun (Minion)
+433:Chigoe Larva (Minion)
+434:Bluebird (Minion)
+435:Wide-eyed Fawn (Minion)
+436:Infant Imp (Minion)
+437:Coeurl Kitten (Minion)
+438:Black Coeurl (Minion)
+439:
+440:Gravel Golem (Minion)
+441:Wind-up Tonberry (Minion)
+442:Tiny Tortoise (Minion)
+443:Baby Raptor (Minion)
+444:Baby Bat (Minion)
+445:Tiny Bulb (Minion)
+446:Dust Bunny (Minion)
+447:Wind-up Dullahan (Minion)
+448:Gigantpole (Minion)
+449:Pudgy Puk (Minion)
+450:Buffalo Calf (Minion)
+451:Cactuar Cutting (Minion)
+452:Smallshell (Minion)
+453:Wolf Pup (Minion)
+454:Beady Eye (Minion)
+455:Fledgling Dodo (Minion)
+456:Coblyn Larva (Minion)
+457:Wind-up Aldgoat (Minion)
+458:Fledgling Apkallu (Minion)
+459:Goobbue Sproutling (Minion)
+460:Bite-sized Pudding (Minion)
+461:Model Vanguard (Minion)
+462:Demon Brick (Minion)
+463:Mini Mole (Minion)
+464:Tender Lamb (Minion)
+465:Slime Puddle (Minion)
+466:Kidragora (Minion)
+467:Wind-up Goblin (Minion)
+468:Wind-up Sylph (Minion)
+469:Wind-up Cursor (Minion)
+470:Wind-up Airship (Minion)
+471:Wind-up Qiqirn (Minion)
+472:Wind-up Dalamud (Minion)
+473:
+474:Chocobo Carriage
+475:
+476:Invisible Target
+477:Gaius van Baelsar "X Slash"
+478:Tornado
+479:
+480:
+481:
+482:
+483:
+484:
+485:
+486:
+487:
+488:
+489:
+490:
+491:
+492:
+493:
+494:
+495:
+496:
+497:
+498:
+499:
+500:
+501:
+502:
+503:
+504:
+505:Black Chocobo Chick (Minion)
+506:Tonberry Scholar (+ Darkness Effect)
+507:Batraal (b) (Copy)
+508:Clockwork Bug
+509:Dark Matter Pteroc
+510:
+511:Orb (Red / Lightning)
+512:Orb (Twintania's "Hatch")
+513:Orb (Green / Bright Lightning)
+514:Orb (Watery / Music Symbol)
+515:Floor Circle (Twintania's "Conflagration")
+516:Floor Circle (Ice)
+517:Floor Circle (Twintania's "Liquid Hell")
+518:Bertha Cannon
+519:FFXIII Odin
+520:Lightning (FFXIII Character)
+521:Mythril Verge
+522:
+523:Dreadknight Bind
+524:Barrel of Cannonballs
+525:Small Device
+526:
+527:Wind-up Shantotto (Minion)
+528:Box with Maps
+529:Box
+530:Crate
+531:Standard w/ Torch
+532:Book Glow (Green) (?)
+533:Bomb Decoration (?)
+534:Unicorn (Mount)
+535:Small Void Gate
+536:Large Void Gate
+537:Belias-Egi
+538:Gungnir
+539:Black Circle
+540:Glowing Circle
+541:Purple (Book Glow?)
+542:
+543:
+544:
+545:
+546:
+547:Generic Person
+548:Generic Person
+549:Generic Person
+550:Spotlight
+551:Garuda's Plume (Blue Aether)
+552:Garuda's Plume (Pink Aether)
+553:Garuda's Plume (No Aether)
+554:Titan 
+555:Ancient Wyvern (- Neurolinks)
+556:Floor Circle (Conflagration)
+557:Floor Circle (Conflagration)
+558:Caduceus
+559:Blue Cobra (Glowing)
+560:Red Cobra (Glowing)
+561:
+562:Rat (2)
+563:Catoblepas
+564:Nandi
+565:Catoblepas C (Yellow w/ Magenta)
+566:Celphie
+567:Archdemon
+568:Archdemon (II) (Copy)
+569:Archdemon (III) (Copy)
+570:Okeanis A (Blue/Orange)
+571:Ceremony Chocobo
+572:Okeanis C (Red/Purple)
+573:Okeanis D (Yellow)
+574:Gold Bear
+575:Tiger
+576:Earthen Brickman (Dragon Quest)
+577:Wind-up Brickman (Minion)
+578:Minute Mindflayer (Minion)
+579:Tight-beaked Parrot (Minion)
+580:Wind-up Amalj'aa (Minion)
+581:Wind-up Ixal (Minion)
+582:Wind-up Kobolder (Minion)
+583:Wind-up Sea Devil (Minion)
+584:Wind-up Edvya (Minion)
+585:Wind-up Sun (Minion)
+586:Plush Cushion (Minion)
+587:Minion of Light (Minion) (Warrior)
+588:Behemoth (Mount)
+589:Stone Brickman (Dragon Quest)
+590:Golden Brickman (Dragon Quest)
+591:Imp (On Fire)
+592:Cavalry Drake (Mount)
+593:Laurel Goobbue (Mount)
+594:Nightmare (Mount)
+595:Zu Cockerel
+596:Zu Pullet
+597:Generic Person
+598:Spotted Zu Egg
+599:White Zu Egg
+600:Leech
+601:Bhoot
+602:Sandman
+603:Manticore
+604:Zu
+605:Dullahan (NNYNB) (Purple)
+606:Zombie War Hound
+607:Floating Eye (+ Void Effect)
+608:Corrupted Flan
+609:Iron Giant
+610:Corrupted Slime
+611:Garuda's Plume (Green Aether)
+612:Corrupted Sprite
+613:Pharos Aether Cloud
+614:Orb (Green / Lighting w/ Purple Outline)
+615:Amalj'aa Beacon
+616:Sylph Shroom
+617:Snowman
+618:Granite Gaoler
+619:Voidsent Energy Spear
+620:Voidsent Energy Scythe
+621:Generic Person
+622:Void Portal
+623:Minion of Light (Minion) (White Mage)
+624:Minion of Light (Minion) (Black Mage)
+625:Wind-up Leader (Minion) (Raubahn)
+626:Wind-up Leader (Minion) (Merlwyb)
+627:Wind-up Leader (Minion) (Kan-E-Senna)
+628:Starlight Treant
+629:Rock (Gray)
+630:
+631:
+632:
+633:Clockwork Spider
+634:Princely Hatchling (Minion)
+635:Wind
+636:Gilgamesh (Bradamante)
+637:Generic Person
+638:Vassago
+639:Green Toad (Battle on the Big Bridge)
+640:Decaying Gourmand
+641:Gobmachine G-VI
+642:Leviathan's Tail
+643:Fat Chocobo (Mount)
+644:Bomb Palanquin (Mount)
+645:Wamouracampa
+646:Wamoura
+647:Nael deus Darnus
+648:Mimic
+649:Orb (Diabolos' "Nightmare")
+650:Key
+651:
+652:Enkidu (Chicken)
+653:Arioch
+654:Damselfly
+655:Rafflesia
+656:Dark Matter Bulb
+657:Dark Matter Hornet
+658:The Avatar
+659:Down Wyvern
+660:Fire Dragon
+661:Dalamud Spawn
+662:Flying Thunder Dragon
+663:Flying Moss Dragon
+664:Flying Fire Dragon
+665:Flying Zombie Dragon
+666:Rock (White)
+667:Rock (White) (II)
+668:Rock (White) (III)
+669:N/A
+670:Goblin Bomb
+671:Goblin Bomb (Skull)
+672:Goblin Bomb (Spiked)
+673:Magitek Vangob
+674:Pyracmon
+675:Direwolf (Mount)
+676:Orb (Yellow / Bubble)
+677:
+678:Bomb Incubator (Red)
+679:Whelk Ballista
+680:
+681:Wind Cylinder
+682:Zu Hatchling (Minion)
+683:Wind-up Odin (Minion)
+684:Wind-up Warrior of Light (Minion)
+685:Wind-up Bahamut (Minion)
+686:Baby Opo-opo (Minion)
+687:Magic Broom (Minion)
+688:Wind-up Moogle (Minion)
+689:Cavalry Elbst (Mount)
+690:Hecteyes
+691:Imp C (Green)
+692:Gilgamesh (Unarmed)
+693:Wamouracampa (II) (Copy)
+694:Wamoura (II) (Copy)
+695:Dark Matter Roselet
+696:Crate
+697:
+698:Dark Matter Slug (Honey)
+699:Wind-up Kobld (Minion)
+700:Wind-up Sahagin (Minion)
+701:Generic Person
+702:
+703:
+704:
+705:
+706:
+707:
+708:
+709:
+710:
+711:
+712:
+713:Aithon (Mount)
+714:Xanthos (Mount)
+715:Markab (Mount)
+716:Einbarr (Mount)
+717:Persona
+718:
+719:Warbear (Mount)
+720:
+721:Warlion (Mount)
+722:Sallet Crab
+723:Leg Trap
+724:Narbrooi
+725:Kraken's Arm
+726:Kraken's Tentacle
+727:Harpeia
+728:Ninki Nanka (w/ Nankas)
+729:Ninki Nanka
+730:Diresaur
+731:Gorynich
+732:Adamantoise Dragon
+733:Allagan Naga
+734:Avere Bravearm
+735:Sasquatch
+736:Floor Circle (Water / Hullbreaker)
+737:Bubble (Hullbreaker)
+738:Large Red Frog
+739:Shield Dragonling
+740:Nanka
+741:Ogrebon
+742:Onion Prince (Minion)
+743:Eggplant Knight (Minion)
+744:Garlic Jester (Minion)
+745:Tomato King (Minion)
+746:Mandragora Queen (Minion)
+747:Treasure Box (Minion)
+748:Wind-up Succubus (Minion)
+749:Wind-up Onion Knight (Minion)
+750:Wind-up Y'shtola (Minion)
+751:Wind-up Nanamo (Minion)
+752:Nana Bear (Minion)
+753:Miniature Minecart (Minion)
+754:Tiny Tapir (Minion)
+755:Nutkin (Minion)
+756:Wind-up Gilgamesh (Minion)
+757:Onion Prince
+758:Eggplant Knight
+759:Garlic Prince
+760:Tomato King
+761:Mandragora Queen
+762:
+763:Enkidu (Primal)
+764:Icicle
+765:Interceptor Node (PVP)
+766:Interceptor Drone (PVP)
+767:Yeti
+768:Scylla's Staff
+769:Main Meteor Target
+770:Dullahan (YYYYB) (Blue)
+771:Dullahan (NNYYB) (Red)
+772:Okeanis B (Green/Blue)
+773:Allagan Mamool Ja Warrior
+774:Kum Kum
+775:Clockwork Bit
+776:Gomory
+777:Tursus
+778:Azer
+779:Ice Gaol
+780:Acheron
+781:Abaia
+782:Aevis B (White)
+783:Orb (Red / Syrcus Fire)
+784:Orb (Blue / Syrcus Ice)
+785:Orb (Purple / Syrcus Lightning)
+786:Orb (Purple / Aether Lines)
+787:Orb (Purple / Tam-Tara HM?)
+788:Orb (Dark Blue)
+789:Orb (Purple)
+790:Hunters Moon Disc (Syrcus)
+791:Aetherochemical Explosion Marker (Syrcus)
+792:Varis zos Galvus
+793:Archbishop Thordan VII
+794:Endymion
+795:Boogeyman
+796:Wind-up Thancred (Minion)
+797:Wind-up Minfilia (Minion)
+798:Mummy's Little Mummy (Minion)
+799:Wind-up Ultros (Minion)
+800:Heavy Hatchling (Minion)
+801:Littlefoot (Minion)
+802:Fat Cat (Minion)
+803:Hoary the Snowman (Minion)
+804:
+805:Demon Box (Minion)
+806:
+807:Assassin Fry (Minion)
+808:Naughty Nanka (Minion)
+809:Wind-up Delivery Moogle (Minion)
+810:Small Red Frog
+811:Warsteed (Maelstrom)
+812:Warsteed (Adders)
+813:Warsteed (Flames)
+814:Postmoogle
+815:Field Generator B (Allagan)
+816:Wind-up Panda (Minion)
+817:Gullfaxi (Mount)
+818:Boreas (Mount)
+819:Small Meteor Target
+820:Moonfire Elbst (Mount) (2014)
+821:Fireworks Launcher
+822:Kaliya
+823:
+824:Karlabos
+825:Ice Commander
+826:Battle Biast
+827:Gaelicat
+828:Sentient Inkhorn
+829:ADS (Cuboid - Black - Red)
+830:ADS (Ovoid - Black - Red)
+831:Byblos
+832:Gnath
+833:Imdugud
+834:Opken
+835:White Gaol
+836:Water Imp (Dragon's Neck)
+837:Manxome Molaa Ja Ja
+838:Frumious Koheel Ja (on Wivre)
+839:Crawler
+840:Bitoso
+841:Deepeye
+842:Reptoid
+843:Vicegerent's Right Hand
+844:Vicegerent's Left Hand
+845:Captain Madison (Monster)
+846:Daughter of Imdugud
+847:Son of Imdugud
+848:Orb (Phoenix's "Blackfire")
+849:Floor Fire (Phoenix)
+850:Orb (Phoenix's "Redfire")
+851:Bennu (Small)
+852:Bennu (Medium)
+853:Bennu (Large)
+854:Phoenix (Glowing)
+855:The Blood of Meracydia
+856:The Pain of Meracydia (Neurolinked)
+857:The Gust of Meracydia
+858:The Shadow of Meracydia
+859:The Sin of Meracydia (Neurolinked)
+860:Vicegerent's Head
+861:Sastasha Pugil
+862:Belah'dian Knight
+863:Steinbock Doe
+864:Snoll
+865:Spriggan (Blue-eyed, Ice Rock)
+866:Sleipnir (Mount)
+867:Snowball?
+868:Temple Mummy (Lalafell)
+869:Temple Mummy (Roegadyn)
+870:Polar Bear
+871:Vine (Purple)
+872:Vine
+873:Sabotender Empiratriz
+874:Sabotender Guardia
+875:Sabotender Guardia (+ Shield)
+876:Vicegerent to the Warden
+877:Sentient Tome
+878:Wind-up Yda (Minion)
+879:Wind-up Papalymo (Minion)
+880:Wind-up Urianger (Minion)
+881:Wind-up Louisoix (Minion)
+882:Wind-up Gentleman (Minion)
+883:Midgardsormr (Minion)
+884:Wind-up Alphinaud (Minion)
+885:Wind-up Alisaie (Minion)
+886:Water Imp (Minion)
+887:Model Enterprise (Minion)
+888:Enkidu (Minion)
+889:Wind-up Gundu Warrior (Minion)
+890:Unicolt (Minion)
+891:Wind-up Cid (Minion)
+892:Wind-up Tataru (Minion)
+893:Owlet (Minion)
+894:Atrophied Atomos (Minion)
+895:Lesser Panda (Minion)
+896:Clockwork Barrow (Minion)
+897:Griffin Hatchling (Minion)
+898:Iron Dwarf (Minion)
+899:Ugly Duckling (Minion)
+900:Page 63 (Minion)
+901:Wind-up Violet (Minion)
+902:Wind-up Founder (Minion)
+903:Wind-up Dezul Qualan (Minion)
+904:Skatene
+905:Paissa
+906:Typhon's "FUNGAH!"
+907:
+908:4-tonze Weight
+909:Damaged Adjudicator
+910:Orb (Sandy / Qarn HM?)
+911:Shiva (No Weapons)
+912:Feridad
+913:Bandersnatch
+914:Miacid
+915:Syricta
+916:Empuse
+917:Midgardsormr (Head)
+918:Page 64/128/256
+919:Okeanis E (Blue/Red)
+920:Imp (b)
+921:Bat (b) (Copy)
+922:Floating Eye (b)
+923:Bogy (b) (Copy)
+924:Vodoriga (b)
+925:Everliving Bibliotaph
+926:Midgardsormr (Mount)
+927:Megalotragus
+928:Orb (Purple/Blue)
+929:White Manacutter (Mount)
+930:Magitek Gunship
+931:Orb (Green)
+932:Ultros (One Lump)
+933:Ultros (Two Lumps)
+934:Ulros (Three Lumps)
+935:Vodoriga (Slumbering)
+936:Mamool Ja sacred Standard
+937:Mamool Ja sacred Standard
+938:
+939:
+940:
+941:Gungnir
+942:Archaeosaur
+943:Bladed Vinegaroon
+944:Archaeornis
+945:Falak
+946:Waukkeon
+947:Spear
+948:Wivre
+949:Tarantula Hawk
+950:Brobinyak
+951:Yak
+952:Vouivre
+953:Nunyenunc
+954:Harmachis
+955:Griffin
+956:Anchag
+957:Mylodon
+958:Kirin (Mount)
+959:Kaliya (II) (Copy)
+960:Orb (Blue)
+961:
+962:Oppressor
+963:Manipulator
+964:
+965:Parade Chocobo (Mount)
+966:Chocobo (II)
+967:Sacrificed Allagan Mamool Ja Warrior
+968:Garm
+969:Queen Scylla
+970:Atomos Avatar
+971:Sacrificed Soldier
+972:Dragonfire Fly
+973:Triad Table
+974:Einhander
+975:Bismarck
+976:Ravana (Four Small Swords)
+977:Tioman
+978:Steam Doll (Faust)
+979:Magitek Gobwidow
+980:Proto-Ultima
+981:Cloud of Darkness (- Clouds)
+982:White Knight
+983:Fire Dragonet
+984:Oliphaunt
+985:Alpha Groundskeeper
+986:Demon Tome
+987:Adamantoise (Mount)
+988:Gaelikitten (Minion)
+989:Wind-up Kain (Minion)
+990:Chocobo Chick Courier (Minion)
+991:Broken Mooglebox (Minion)
+992:Griffin (Mount)
+993:Generic Person
+994:Mirage Dragon (Thunder)
+995:Mirage Dragon (Ice)
+996:Astraea
+997:Ceruleum Tank
+998:Ceruleum Tank
+999:Generator (Keeper of the Lake)
+1000:Atomos Prime
+1001:Dragon Head (Gilgamesh)
+1002:Snare (Steps of Faith)
+1003:Exploding Barrels (Steps of Faith)
+1004:Xande's Clone
+1005:Two-Headed Dragon
+1006:Dark Sprite
+1007:Orb (White / Five-headed Dragon?)
+1008:Orb (Blue Static)
+1009:Cloud of Darkness' "Dark Storm"?
+1010:Orb (Binding Chains)
+1011:Gobwalker (Mount)
+1012:Vinegaroon
+1013:Piston Lubricant
+1014:Gear Lubricant
+1015:Orb (Lightning)
+1016:Model Magitek Bit (Minion)
+1017:Puff of Darkness (Minion)
+1018:Mandragora (b) (Gardening Copy)
+1019:Midgardsormr (Head)
+1020:Midgardsormr (Head)
+1021:ADS (Enormous Egg) (Hartching-tide 2015)
+1022:Spriggan (Yellow-eyed w/ Red Egg)
+1023:Spriggan (Yellow-eyed w/ Yellow Egg)
+1024:Generic Person
+1025:Cloud of Darkness' "Dark Cloud"?"
+1026:Fenrir (Mount)
+1027:Rook Autoturret
+1028:Bishop Autoturret
+1029:Logistics System
+1030:Magitek Gunship B (Blue)
+1031:Generic Person
+1032:Hecteyes (II) (Slightly Lighter Copy)
+1033:Lily of the Saint
+1034:Corpse Flower
+1035:Icetrap
+1036:Melia
+1037:Frostbitten War Hound
+1038:Gastornis
+1039:Zoblyn
+1040:Hropken
+1041:Minotaur
+1042:Elder Wyvern
+1043:Endymion B (Rainbow)
+1044:Meracydian Vouivre
+1045:Sankchinni
+1046:Korrigan
+1047:Ascian Prime
+1048:Nidhogg (Hraesvelgr's Left Eye / Fresh Scars)
+1049:Nidhogg (No Eyes / Fresh Left Scar)
+1050:Hraesvelgr (One Eye)
+1051:Tiamat
+1052:Tulihand
+1053:Bifericeras
+1054:Vanu Totem
+1055:Ratel
+1056:Sun Leech
+1057:Clay Claw
+1058:Sanuwa
+1059:
+1060:Living Liquid (Vessel)
+1061:Living Liquid (Anthromorph)
+1062:Living Liquid (Chiromorph Right)
+1063:Living Liquid (Chiromorph Left)
+1064:Dhalmel
+1065:Pegasus (Mount)
+1066:Matoya
+1067:King Thordan
+1068:Topaz Carbuncle (Minion)
+1069:
+1070:Cloth Scraps?
+1071:Dragonkiller Cannon
+1072:Raskovnik
+1073:Gallimimus
+1074:Bit C (Red)
+1075:Poroggo
+1076:Biohazard
+1077:
+1078:Rheum of the Mountain
+1079:Blood of the Mountain
+1080:Black Knight
+1081:Clockwork Spider B (Violet Glow)
+1082:Gobtank
+1083:Eruca
+1084:Oppressor 0.5
+1085:Ravana (Glowing Red, Two Large Swords)
+1086:Ravana (Shadowed)
+1087:Ravana (Two Large Swords)
+1088:Beta Groundskeeper
+1089:Enforcement Droid
+1090:
+1091:
+1092:Cultured Shabti
+1093:Shabti
+1094:Biblioklept
+1095:Phantom Ray
+1096:Moon Gana
+1097:Spirit Gana
+1098:Steam Bit
+1099:Iksalion
+1100:The Curator
+1101:Vanu Vanu
+1102:Generic Person
+1103:Generic Person
+1104:Generic Person
+1105:Chandrahas
+1106:Amphiptere
+1107:Azys Lla ADS (Spheroid - Silver - Red)
+1108:Azys Lla ADS (Spheroid - Silver - White)
+1109:Azys Lla ADS (Spheroid - Silver - Violet)
+1110:Azys Lla ADS (Spheroid - Silver - Lavender)
+1111:Azys Lla ADS (Spheroid - Silver - Aqua)
+1112:Azys Lla ADS (Spheroid - Silver - Green)
+1113:Azys Lla ADS (Spheroid - Silver - Yellow)
+1114:Azys Lla ADS (Spheroid - Silver - Orange)
+1115:Azys Lla ADS (Spheroid - White - Red)
+1116:Azys Lla ADS (Spheroid - White - White)
+1117:Azys Lla ADS (Spheroid - White - Violet)
+1118:Azys Lla ADS (Spheroid - White - Lavender)
+1119:Azys Lla ADS (Spheroid - White - Aqua)
+1120:Azys Lla ADS (Spheroid - White - Green)
+1121:Azys Lla ADS (Spheroid - White - Yellow)
+1122:Azys Lla ADS (Spheroid - White - Orange)
+1123:Azys Lla ADS (Cuboid - Silver - Red)
+1124:Azys Lla ADS (Cuboid - Silver - White)
+1125:Azys Lla ADS (Cuboid - Silver - Violet)
+1126:Azys Lla ADS (Cuboid - Silver - Lavender)
+1127:Azys Lla ADS (Cuboid - Silver - Aqua)
+1128:Azys Lla ADS (Cuboid - Silver - Green)
+1129:Azys Lla ADS (Cuboid - Silver - Yellow)
+1130:Azys Lla ADS (Cuboid - Silver - Orange)
+1131:Azys Lla ADS (Cuboid - White - Red)
+1132:Azys Lla ADS (Cuboid - White - White)
+1133:Azys Lla ADS (Cuboid - White - Violet)
+1134:Azys Lla ADS (Cuboid - White - Lavender)
+1135:Azys Lla ADS (Cuboid - White - Aqua)
+1136:Azys Lla ADS (Cuboid - White - Green)
+1137:Azys Lla ADS (Cuboid - White - Yellow)
+1138:Azys Lla ADS (Cuboid - White - Orange)
+1139:Azys Lla ADS (Ovoid - Silver - Red)
+1140:Azys Lla ADS (Ovoid - Silver - White)
+1141:Azys Lla ADS (Ovoid - Silver - Violet)
+1142:Azys Lla ADS (Ovoid - Silver - Lavender)
+1143:Azys Lla ADS (Ovoid - Silver - Aqua)
+1144:Azys Lla ADS (Ovoid - Silver - Green)
+1145:Azys Lla ADS (Ovoid - Silver - Yellow)
+1146:Azys Lla ADS (Ovoid - Silver - Orange)
+1147:Azys Lla ADS (Ovoid - White - Red)
+1148:Azys Lla ADS (Ovoid - White - White)
+1149:Azys Lla ADS (Ovoid - White - Violet)
+1150:Azys Lla ADS (Ovoid - White - Lavender)
+1151:Azys Lla ADS (Ovoid - White - Aqua)
+1152:Azys Lla ADS (Ovoid - White - Green)
+1153:Azys Lla ADS (Ovoid - White - Yellow)
+1154:Azys Lla ADS (Ovoid - White - Orange)
+1155:Toco Toco
+1156:Cathedral Gargoyle
+1157:Sphinx
+1158:Pterygotus
+1159:Griffin B (Brown)
+1160:Sanguiptere
+1161:Sanuwa (Mount)
+1162:Behemoth Heir (Minion)
+1163:Accompanyment Node (Minion)
+1164:Steam-powered Gobwalker G-VII (Minion)
+1165:Wind-up Iceheart (Minion)
+1166:Wind-up Gestahl (Minion)
+1167:Wind-up Yugiri (Minion)
+1168:Emerald Carbuncle (Minion)
+1169:
+1170:Paissa Brat (Minion)
+1171:Wind-up Illuminatus (Minion)
+1172:Pumpkin Butler (Minion)
+1173:Hunting Hawk (Minion)
+1174:Shalloweye (Minion)
+1175:Penguin Prince (Minion)
+1176:Wind-up Relm (Minion)
+1177:
+1178:
+1179:
+1180:
+1181:Nunyenunc's Shadow
+1182:Bit D (Black & Gold)
+1183:Steam Bit B (Purple)
+1184:Panther (Mount)
+1185:Graoully
+1186:Vidofnir
+1187:Coeurlregina (Darkened)
+1188:So'sanuwa
+1189:Ul'sanuwa
+1190:Ice Dragonet
+1191:Moss Dragonet
+1192:Dragon Statue (Aery)
+1193:Crystals
+1194:Drakespur
+1195:Garuda's Plume (Many Feathers)
+1196:Orb (Blue Fire)
+1197:Orb (Green Wind)
+1198:Orb (Red/Blue)
+1199:Orb (Green Cloud)
+1200:Orb (Fire)
+1201:Circle (Vertical Purple Effect)
+1202:Orb (Sky Blue)
+1203:Orb (Golden Electricity)
+1204:Orb (Bubble)
+1205:Wind Circle
+1206:Water Circle
+1207:Landmine (Pulsing)
+1208:Orb (Darkness)
+1209:Gaius van Baelsar "X Slash"
+1210:Elder Syricta
+1211:Poroggo (+ Blue Hat)
+1212:Gold Rush Minecart (Minion)
+1213:Black Fat Cat (Minion)
+1214:Senmurv
+1215:The Pale Rider
+1216:Gandarewa
+1217:Bird of Paradise
+1218:Leucrotta
+1219:Mirka
+1220:Pylraster
+1221:Bune
+1222:Agathos
+1223:Campacti
+1224:Stench Blossom
+1225:Alteci
+1226:Thextera
+1227:The Scarecrow
+1228:Tonberry Marauder
+1229:Gobtank G-IV
+1230:Magic Broom 2 (Minion)
+1231:
+1232:Sword
+1233:
+1234:Cuchulainn
+1235:Drum Bit A (Red)
+1236:Bit E (Blue & Orange)
+1237:Field Generator A (Allagan)
+1238:Vedrfolnir
+1239:Boomtype Magitek Gobwalker G-VII
+1240:Sentient Inkhorn 2 (Flightless)
+1241:King Thordan (b)
+1242:Knight of the Round
+1243:Knight of the Round (2)
+1244:Orb (Spinning Discs?)
+1245:Cone (Spinning Discs?)
+1246:Orb (White / Five Heade Dragon?)
+1247:
+1248:
+1249:Twintania (Mount)
+1250:Knight of the Round (b)
+1251:Wyvern
+1252:Thunder Dragon (b)
+1253:Moss Dragon (b)
+1254:Ice Dragon (b)
+1255:Fire Dragon (b)
+1256:Zombie Dragon (b)
+1257:Vidofnir (b)
+1258:Flying Thunder Dragon (b)
+1259:Flying Moss Dragon (b)
+1260:Flying Ice Dragon (b)
+1261:Flying Fire Dragon (b)
+1262:Flying Zombie Dragon (Grounded)
+1263:Ice Dragonet (b)
+1264:Midgardsormr (Mount)
+1265:Generic Person
+1266:Fallen Debris (Dusk Vigil)
+1267:Fallen Debris (Dusk Vigil)
+1268:Fallen Debris (Dusk Vigil)
+1269:
+1270:Belladonna
+1271:Hybodus
+1272:Echidna
+1273:Blackguard
+1274:Queen Hawk
+1275:Sawtooth
+1276:Hellhound
+1277:Darkscale
+1278:Flying Graoully
+1279:Manipulator (Four Short Legs)
+1280:Shiva (Sword)
+1281:Rose Garden
+1282:
+1283:Generic Person
+1284:
+1285:
+1286:
+1287:
+1288:
+1289:
+1290:
+1291:
+1292:
+1293:Living Rock
+1294:Living Rock (II) (Copy)
+1295:Poroggo C (Purple w/ Blue Hat)
+1296:Vodoriga (II) (Slightly Lighter Copy)
+1297:Grizzly Host
+1298:Progenitrix
+1299:Progenitor
+1300:Water Tornado (Neverreap? Alexander?)
+1301:Biloko
+1302:Triceratops
+1303:Brachiosaur
+1304:Construct 8
+1305:Ligeia
+1306:Meracydian Falak
+1307:Falak (II) (Copy)
+1308:Grey Bomb
+1309:Remedy Bomb
+1310:Diplocaulus
+1311:Foobar
+1312:Dexter (Mob-Left Frill)
+1313:Bismarck (Broken Chitin)
+1314:Gana C (Purple/Yellow)
+1315:Korpokkur
+1316:FFXI Beetle
+1317:Ghrah Lumiary (Sphere)
+1318:Wind-up Ifrit (Minion)
+1319:Clockwork Twintania (Minion)
+1320:Korpokkur Kid (Minion)
+1321:Wind-up Firion (Minion)
+1322:Wind-up Echidna (Minion)
+1323:Barghest
+1324:Plague Purge
+1325:
+1326:Witch's Broom (Mount)
+1327:Ascian Prime (Not Glowing)
+1328:Sinister (Mob-Right Frill)
+1329:
+1330:
+1331:
+1332:
+1333:
+1334:Wind-up Haurchefant (Minion)
+1335:
+1336:
+1337:
+1338:Pteranodon
+1339:Irminsul (Small)
+1340:Irminsul (Large)
+1341:Sawbones (Head Vine)
+1342:Echidna (Lamia)
+1343:
+1344:Boomtype Magitek Gobwalker G-VII (b)
+1345:
+1346:Cetus
+1347:Corruption (Sphere)
+1348:Corruption (Doll)
+1349:Corruption (Vulture)
+1350:Corruption (Spider)
+1351:Diabolos (b)
+1352:
+1353:
+1354:
+1355:
+1356:
+1357:
+1358:
+1359:Void Ark Scrap
+1360:The Pagan's Knot
+1361:Pharos HM Generator
+1362:Rose Hip
+1363:
+1364:
+1365:
+1366:
+1367:Rose Bud
+1368:Bomb Incubator (Blue)
+1369:Ghrah Lumiary (Doll)
+1370:
+1371:Spider
+1372:Orb (Red/Black)
+1373:Orb (Gold)
+1374:Gyretower
+1375:
+1376:
+1377:
+1378:Bloated Bulb
+1379:Silver Manacutter (Mount)
+1380:Black Manacutter (Mount)
+1381:Knight Hawk
+1382:
+1383:
+1384:
+1385:
+1386:
+1387:
+1388:
+1389:
+1390:
+1391:
+1392:
+1393:
+1394:
+1395:
+1396:
+1397:
+1398:
+1399:
+1400:
+1401:
+1402:
+1403:
+1404:
+1405:
+1406:Nidhogg (Both Eyes / No Scars)
+1407:Elemental F (White)
+1408:Animus Elemental
+1409:
+1410:The Strongman (Heavensturn 2016)
+1411:
+1412:Wyvern (Mount)
+1413:Magitek Reaper (Glowing)
+1414:
+1415:Ark Ked
+1416:Soldier Hawk
+1417:
+1418:
+1419:
+1420:Forgotten Wisent
+1421:Charybterix
+1422:Trained Sanuwa
+1423:Wind-up Zundu Warrior (Minion)
+1424:Okeanis F (Purple)
+1425:
+1426:Spriggan (w/ huge rock)
+1427:
+1428:Groundskeeper C (Purple)
+1429:Skatene B (White)
+1430:
+1431:
+1432:
+1433:
+1434:
+1435:
+1436:
+1437:
+1438:
+1439:
+1440:
+1441:
+1442:
+1443:
+1444:
+1445:
+1446:
+1447:
+1448:
+1449:
+1450:
+1451:
+1452:
+1453:
+1454:
+1455:
+1456:
+1457:
+1458:
+1459:
+1460:
+1461:
+1462:
+1463:
+1464:
+1465:
+1466:
+1467:
+1468:
+1469:
+1470:
+1471:
+1472:
+1473:
+1474:
+1475:
+1476:
+1477:
+1478:
+1479:
+1480:
+1481:
+1482:
+1483:
+1484:
+1485:
+1486:
+1487:
+1488:
+1489:
+1490:
+1491:
+1492:
+1493:
+1494:
+1495:
+1496:
+1497:
+1498:
+1499:
+1500:
