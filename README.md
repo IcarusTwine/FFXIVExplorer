@@ -8,4 +8,8 @@ Using the .jar version (Goaaat's version) Will have more functionallity.
 
 Credits to Ioncannon, Goaaat and Roze
 
+Ioncannons source https://bitbucket.org/Ioncannon/ffxiv-explorer/overview
+
 Goaaats sourcecode https://github.com/goaaats/ffxiv-explorer-fork
+
+Roze's ULD https://github.com/RozeDoyanawa
