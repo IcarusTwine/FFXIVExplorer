@@ -1,0 +1,93 @@
+080000 notes
+
+Possible work:
+use TerritoryType.exh to gen a list of locations?
+
+
+
+-------------------------------------------------------
+
+
+test:
+bg/ffxiv/sea_s1/twn/s1t1/level/s1t1
+
+In explorer it consists of
+/bgplate
+/collision
+/grass
+/level
+/level/envl
+
+
+5 possibles for each location?
+
+a look into other locations:
+
+
+This seems to be housing items maybe not in TerritoryType.exh
+bg/ffxiv/est_e1/hou/dyna/c_fnc/0000/
+
+/asset
+/bgparts
+/collision
+/material
+/texture
+
+a look into est_e1 (shirogane)
+
+exh:
+
+ffxiv/est_e1/hou/e1h1/level/e1h1
+
+
+exp:
+
+ffxiv/est_e1/hou/e1h1/bgparts
+ffxiv/est_e1/hou/e1h1/bgplate
+ffxiv/est_e1/hou/e1h1/collision
+ffxiv/est_e1/hou/e1h1/grass
+ffxiv/est_e1/hou/e1h1/level
+ffxiv/est_e1/hou/e1h1/level/envl
+ffxiv/est_e1/hou/e1h1/material
+ffxiv/est_e1/hou/e1h1/texture
+
+no /level/e1h1 ?
+
+
+----------------------------------
+
+
+looking at all of the zones in Bg for TerritoryType.exh none seem to have the final /e1h1 for example...
+
+
+---------------------------------
+
+
+Plan:
+
+list all of bg then cut off the last directory (/f1c4 for example)
+add these to every location:
+
+/bgparts
+/bgplate
+/collision
+/grass
+/level
+/level/envl
+/material
+/texture
+
+Question is how to deal with commmon files?
+
+it seems that bg/fxiv/fst_f1/ind/
+will have common files of:
+
+/bgparts
+/collision
+/material
+/texture
+/vfx/texture
+
+--------------------------------
+
+Look into hex edit for .lgb? 

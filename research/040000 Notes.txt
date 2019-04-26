@@ -1,0 +1,146 @@
+Missing 04
+mt_c0101h0154_acc_b.mtrl
+mt_c0101h0154_hir_a.mtrl
+
+c0101h0121_hir_a
+
+? v01_m0117b0001_b_d(n s)
+
+----------------------------------
+Missing path examples for Monsters
+
+chara/monster/m0247/animation/a0001/bt_common/resident/
+	This can contain mount.pap as well as monster.pap
+Monster number
+a0001 always for animation
+
+chara/monster/m0247/animation/a0001/bt_common/event/
+chara/monster/m0247/animation/a0001/bt_common/event_base/
+chara/monster/m0247/animation/a0001/bt_common/mon_sp/m0247/
+chara/monster/m0247/animation/a0001/bt_common/warp/
+chara/monster/m0247/animation/f0000/nonresident/
+chara/monster/m0247/animation/s0001/body/
+	This one can go s0001 -> s0003
+
+Skeletons:
+
+chara/monster/m0247/skeleton/base/b0001
+> 	eid_m0247b0001.eid
+	eid_m0247b0001_01.eid
+	skl_m0247b0001.sklb
+	skl_m0247b0001.skp
+
+
+chara/monster/m0247/obj/body/b0001/vfx/eff/
+chara/monster/m0247/obj/body/b0001/vfx/texture/
+
+
+---------------------------------------------------
+
+Full checks for folder names only:
+chara/monster/mYYYY/animation/aXXXX/bt_common/event/
+chara/monster/mYYYY/animation/aXXXX/bt_common/event_base/
+chara/monster/mYYYY/animation/aXXXX/bt_common/mon_sp/mYYYY/
+chara/monster/mYYYY/animation/aXXXX/bt_common/resident/
+chara/monster/mYYYY/animation/aXXXX/bt_common/warp/
+chara/monster/mYYYY/animation/fXXXX/nonresident/
+chara/monster/mYYYY/animation/sXXXX/body/
+chara/monster/mYYYY/obj/body/bXXXX/
+chara/monster/mYYYY/obj/body/bXXXX/material/vXXXX/
+chara/monster/mYYYY/obj/body/bXXXX/model/
+chara/monster/mYYYY/obj/body/bXXXX/texture/
+chara/monster/mYYYY/obj/body/bXXXX/vfx/eff/
+chara/monster/mYYYY/obj/body/bXXXX/vfx/texture/
+chara/monster/mYYYY/skeleton/base/bXXXX/
+
+Y = 0001 to 9999
+x = 0001 to 0010~?
+
+If Y is determined before in the path then Y will be the same
+X always goes up from 0001 to 0010+, will not miss a number.
+	Example. b0001 | b0002 | b0003 | b0004
+		Will not got go b0001 | b0005 | b0006
+
+-----------------------------------------------------
+Filename checks:
+
+chara/monster/mYYYY/animation/aXXXX/bt_common/event/
+	[These are .pap files but hard to determine names for some yet]
+
+
+chara/monster/mYYYY/animation/aXXXX/bt_common/event_base/
+	[These are .pap files but hard to determine names for some yet]
+
+
+chara/monster/mYYYY/animation/aXXXX/bt_common/mon_sp/mYYYY/
+	[Files will always be mon_sp001.pap -> mon_sp020+?.pap]
+
+
+chara/monster/mYYYY/animation/fXXXX/nonresident/
+	[Contains monster.pap or mount.pap or both]
+
+
+chara/monster/mYYYY/animation/aXXXX/bt_common/resident/
+	[Will contain either/or both monster.pap and mount.pap]
+
+
+chara/monster/mYYYY/animation/aXXXX/bt_common/warp/
+	[Contains warp_end.pap and warp_start.pap]
+
+
+chara/monster/mYYYY/animation/fXXXX/nonresident/
+	[Contains monster.pap or mount.pap or both]
+
+
+chara/monster/mYYYY/animation/sXXXX/body/
+	[Contains only material.pap]
+
+
+chara/monster/mYYYY/obj/body/bXXXX/
+	[Will contain bXXXX.imc will only be one file]
+
+
+chara/monster/mYYYY/obj/body/bXXXX/material/vXXXX/
+	[Will always contain
+	mt_mYYYYbXXXX_a.mtrl
+	then possibly
+	mt_mYYYYbXXXX_b.mtrl
+	mt_mYYYYbXXXX_c.mtrl
+	etc until null]
+
+
+chara/monster/mYYYY/obj/body/bXXXX/model/
+	[Wil always contain mYYYYbXXXX.mdl]
+
+chara/monster/mYYYY/obj/body/bXXXX/texture/
+	[Always contains but this can get complicated
+	v01_mYYYYbXXXX_d.tex
+	v01_mYYYYbXXXX_n.tex
+	v01_mYYYYbXXXX_s.tex
+	But sometimes contains more
+	v01_mYYYYbXXXX_b_d.tex
+	v01_mYYYYbXXXX_b_n.tex
+	v01_mYYYYbXXXX_b_s.tex
+	v02_mYYYYbXXXX_d.tex
+	v02_mYYYYbXXXX_b_d.tex
+	v02_mYYYYbXXXX_b_n.tex
+	v02_mYYYYbXXXX_b_s.tex
+	Naming scheme seems to be
+	v01.... | v02.... etc
+	....d
+	....b_d | ....d_n ....b_s]
+
+chara/monster/mYYYY/obj/body/bXXXX/vfx/eff/
+	[Contains vm0001.avfx | vm0002.avfx .....]
+
+chara/monster/mYYYY/obj/body/bXXXX/vfx/texture/
+	[Contains a list of .atex file, shared files but unable to get naming scheme yet]
+
+chara/monster/mYYYY/skeleton/base/bXXXX/
+	[Contains atleast 1 but can have the "b" version as well
+	skl_mYYYYb0001.skp
+	skl_mYYYYb0001.sklb
+	eid_mYYYYb0001_01.eid
+	eid_mYYYYb0001.eid
+	phy_mYYYYb0001.phyb
+	but full examination of these files need a look]
