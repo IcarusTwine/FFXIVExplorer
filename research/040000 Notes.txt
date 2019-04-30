@@ -1,3 +1,7 @@
+beforehair: 30665
+after hair: 30319
+after 1st scan: 29250
+
 Missing 04
 mt_c0101h0154_acc_b.mtrl
 mt_c0101h0154_hir_a.mtrl
