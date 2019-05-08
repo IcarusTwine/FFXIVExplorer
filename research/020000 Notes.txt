@@ -1,0 +1,34 @@
+Missing 020000 paths:
+150 folders
+
+
+-------------------------
+ex1:
+Missing 020101 paths:
+28 folders
+
+Missing 020102 paths:
+3 folders
+
+Missing 020103 paths:
+12 folders
+
+Missing 020104 paths:
+6 folders
+
+Missing 020105 paths:
+8 folders
+
+-------------------------
+ex2:
+Missing 020201 paths:
+26 folders
+
+Missing 020202 paths:
+27 folders
+
+Missing 020203 paths:
+3 folders
+
+Missing 020205 paths:
+34 folders

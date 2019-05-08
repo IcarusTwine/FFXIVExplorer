@@ -148,3 +148,7 @@ chara/monster/mYYYY/skeleton/base/bXXXX/
 	eid_mYYYYb0001.eid
 	phy_mYYYYb0001.phyb
 	but full examination of these files need a look]
+
+--------------------------------------------
+
+
