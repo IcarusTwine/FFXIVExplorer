@@ -1,0 +1,14 @@
+000000.win32.index - UI textures, fonts, and loading screens.
+0a0000.win32.index - EXD/EXH
+0b0000.win32.index - scripts
+0c0000.win32.index - music
+010000.win32.index - environment stuff Shared/Common files + Housing
+020000.win32.index - environment models - Zones
+030000.win32.index - cutscenes and animations?
+040000.win32.index - character and monster models/textures
+050000.win32.index - shaders
+060000.win32.index - UI shit
+070000.win32.index - sounds
+080000.win32.index - visual effects
+120000.win32.index - ??? wouldn't load
+130000.win32.index - ??? wouldn't load

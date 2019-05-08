@@ -4,7 +4,7 @@ bg/ffxiv/sea_s1/hou/dyna/;_wal/0001/collision/s1h0_l_wal001.pcb
 bg/ffxiv/est_e1/hou/dyna/common/texture/e1h0_com_wal0001_0a_s.tex
 bg/ffxiv/sea_se/hou/dyna/l_rof/0003/collison/s1h0_l_rof003.pcb
 bg/ffxiv/wil_w1/hou/dyna/s_rof/0002/bgparts/w1h0_s_rof0002.mdl
-[Looks like hosing objects are missing :/ only roof though?]
+[Looks like housing objects are missing :/ only roof though?]
 bg/ffxiv/fst_f1/pvp/f1p1/
 bg/ffxiv/fst_f1/dun/f1d9/
 bg/ffxiv/zon_z1/evt/z1e8/
@@ -30,23 +30,35 @@ ex1:
 Missing 020101 paths:
 1 folder
 
+
 Missing 020102 paths:
-2 folders
-(done)
+1 folder
+
 
 Missing 020103 paths:
 12 folders
+bg/ex1/03_abr_a2/fld/a2ff/
+
 
 Missing 020104 paths:
 6 folders
+bg/ex1/04_sea_s2/pvp/s2p1/
+
 
 Missing 020105 paths:
 8 folders
+bg/ex1/05_zon_z2/evt/z2e3/
+bg/ex1/05_zon_z2/evt/z2e2/
 
 -------------------------
 ex2:
 Missing 020201 paths:
 26 folders
+bg/ex2/01_gyr_g3/twn/g3t2/
+bg/ex2/01_gyr_g3/dun/g3d4/
+bg/ex2/01_gyr_g3/evt/g3e2/
+bg/ex2/01_gyr_g3/evt/g3e5/
+
 
 Missing 020202 paths:
 27 folders
