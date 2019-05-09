@@ -1,6 +1,6 @@
 Missing 020000 paths:
 150 folders
-bg/ffxiv/sea_s1/hou/dyna/;_wal/0001/collision/s1h0_l_wal001.pcb
+bg/ffxiv/sea_s1/hou/dyna/l_wal/0001/collision/s1h0_l_wal001.pcb
 bg/ffxiv/est_e1/hou/dyna/common/texture/e1h0_com_wal0001_0a_s.tex
 bg/ffxiv/sea_se/hou/dyna/l_rof/0003/collison/s1h0_l_rof003.pcb
 bg/ffxiv/wil_w1/hou/dyna/s_rof/0002/bgparts/w1h0_s_rof0002.mdl
@@ -23,8 +23,10 @@ bg/ffxiv/zon_z1/evt/z1eb/
 bg/ffxiv/wil_w1/ect/w1e9/
 
 AFTER THIS ITS
+
 ffxiv/
-97 folders hashed left
+missing 020000 paths:
+73 folders
 
 -------------------------
 ex1:
@@ -42,17 +44,16 @@ Missing 020103 paths:
 
 Missing 020104 paths:
 0 folders
-(done)
 
 
 Missing 020105 paths:
 0 folders
-(done)
+
 
 -------------------------
 ex2:
 Missing 020201 paths:
-1 folder (relating to sgb? for shared files?)
+0 folders
 
 
 Missing 020202 paths:
@@ -63,4 +64,3 @@ Missing 020203 paths:
 
 Missing 020205 paths:
 3 folders
-(done)
