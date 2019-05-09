@@ -23,6 +23,7 @@ bg/ffxiv/zon_z1/evt/z1eb/
 bg/ffxiv/wil_w1/ect/w1e9/
 
 AFTER THIS ITS
+ffxiv/
 97 folders hashed left
 
 -------------------------
@@ -36,28 +37,22 @@ Missing 020102 paths:
 
 
 Missing 020103 paths:
-12 folders
-bg/ex1/03_abr_a2/fld/a2ff/
+5 folders
 
 
 Missing 020104 paths:
-6 folders
-bg/ex1/04_sea_s2/pvp/s2p1/
+0 folders
+(done)
 
 
 Missing 020105 paths:
-8 folders
-bg/ex1/05_zon_z2/evt/z2e3/
-bg/ex1/05_zon_z2/evt/z2e2/
+0 folders
+(done)
 
 -------------------------
 ex2:
 Missing 020201 paths:
-26 folders
-bg/ex2/01_gyr_g3/twn/g3t2/
-bg/ex2/01_gyr_g3/dun/g3d4/
-bg/ex2/01_gyr_g3/evt/g3e2/
-bg/ex2/01_gyr_g3/evt/g3e5/
+1 folder (relating to sgb? for shared files?)
 
 
 Missing 020202 paths:
