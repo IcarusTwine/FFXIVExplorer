@@ -20,7 +20,7 @@ bg/ffxiv/sea_s1/pvp/s1p4/
 bg/ffxiv/sea_s1/twn/s1tg/
 bg/ffxiv/wil_w1/evt/w1ec/
 bg/ffxiv/zon_z1/evt/z1eb/
-bg/ffxiv/wil_w1/ect/w1e9/
+bg/ffxiv/wil_w1/evt/w1e9/
 
 AFTER THIS ITS
 
@@ -57,7 +57,7 @@ Missing 020201 paths:
 
 
 Missing 020202 paths:
-27 folders
+4 folders
 
 Missing 020203 paths:
 3 folders
